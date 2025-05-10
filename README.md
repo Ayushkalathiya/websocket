@@ -7,6 +7,9 @@ A real-time collaborative workspace built with native WebSockets, Node.js, and R
 
 ![image](https://github.com/user-attachments/assets/8ad12d8b-af96-4631-bd79-bfe2c644aacd)
 
+
+![image](https://github.com/user-attachments/assets/fd6792c9-b557-46d7-889e-d86f534e9064)
+
 ## Features
 
 - **Real-time collaboration** using native WebSockets (no Socket.io)
@@ -290,4 +293,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 
 
-![image](https://github.com/user-attachments/assets/fd6792c9-b557-46d7-889e-d86f534e9064)
